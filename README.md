@@ -88,7 +88,7 @@ src/
 ├── assets/
 │   └── images
 ├── components/
-│   └── MedicareLandingPage.jsx
+│   └── HomePage.jsx
 ├── App.jsx
 ├── main.jsx
 └── index.css
@@ -99,7 +99,7 @@ src/
 ### Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/BoomeshKS/medicare.git
 ```
 
 ### Navigate to Project Directory
